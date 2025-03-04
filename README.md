@@ -15,4 +15,4 @@ Ce dispositif est placé sous une corbeille à papier. Les étudiants doivent es
 
 ## Documentation
 
-`Retrouvez la documentation dans le dossier [docs](docs/).`
+`Retrouvez la documentation dans le dossier [docs/assets/schematics_bb.png](docs/assets/schematics_bb.png).`
