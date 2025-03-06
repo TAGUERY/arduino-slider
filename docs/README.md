@@ -8,7 +8,13 @@
 
 `Le mouvement est contrôlé par un moteur et des capteurs. Il effectue des allers-retours entre deux extrémités, et un capteur détecte lorsque la plateforme atteint un bord pour la faire repartir dans l’autre sens.`  
 
-![Description de l'image](/docs/assets/croquis-de-recherche.png)  
+![Breadboard](/docs/assets/breadBoard.png)  
+![capteurs sous la plateforme](/docs/assets/capteur.png)  
+![autre angle des capteurs sous la plateforme](/docs/assets/capteur2.png)  
+![moteur avec le couroie](/docs/assets/moteur.png)  
+![couroie attachée à la plateforme](/docs/assets/pince.png)  
+![moteur vissé à la planche principale](/docs/assets/plancheMoteur.png)  
+
 
 ---
 
@@ -80,6 +86,11 @@
 ## Roadmap  
 
 `- Ajouter un signal sonore ou une LED pour indiquer qu’un papier a bien été lancé dans la corbeille.` 
-`- Mettre en place un petit écran LCD avec la sélection de mode de jeux et l'affichage de la vitesse.`  
+`- Mettre en place un petit écran LCD avec la sélection de mode de jeux et l'affichage de la vitesse.` 
+
+
+---
+
+
 
 
