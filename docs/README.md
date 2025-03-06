@@ -8,6 +8,20 @@
 
 `Le mouvement est contrôlé par un moteur et des capteurs. Il effectue des allers-retours entre deux extrémités, et un capteur détecte lorsque la plateforme atteint un bord pour la faire repartir dans l’autre sens.`  
 
+
+Construction (voir les images en suivant les étapes):
+1. Couper le bois en 3 parties : 2x 20x10 cm et 1x 23x20 cm.
+2. Percer deux trous parallèles à mi-hauteur, d’un diamètre de 1 cm, avec un espacement d’environ 15 cm.
+3. Planter 4 clous à 12 cm chacun sur la plateforme (planche de 23x20 cm) pour guider celle-ci le long des deux tubes.
+4. Fixer 2 équerres (du côté des clous) pour y placer les deux capteurs avec du double-face, en veillant à ce qu’ils soient orientés vers l’extérieur.
+5. Insérer les tiges dans les 2 planches de 20x10 cm.
+6. Fixer les équerres et installer le moteur (écart de 31 mm entre les deux pas de vis, si c'est un NEMA 17).
+7. Planter un clou avec une roue crantée, en s’assurant qu’elle puisse tourner librement.
+8. Sur le profil de la plateforme, fixer une équerre avec la pince à courroie.
+9. Installer la courroie. Si elle est trop courte, faire passer les tubes à travers la planche latérale pour rapprocher les deux planches.
+10. Remplacer les fils des capteurs par des fils d’au moins 1 mètre, afin qu’ils puissent se déplacer avec la plateforme.
+
+
 ![Breadboard](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/breadBoard.png)  
 ![capteurs sous la plateforme](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/capteur.png)  
 ![autre angle des capteurs sous la plateforme](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/capteur2.png)  
@@ -48,6 +62,8 @@
 | 11  | Vis M3                              | 2        | Fixation du moteur                         |  |
 | 12  | Rondelles                           | 5        | Renforts pour la fixation                  |  |
 | 13  | Équerres                            | 5        | Support pour la structure                  |  |
+| 14  | Tubes                            | 2        | barres pour faire glisser la plateforme                  | [Jumbo](https://www.jumbo.ch/fr/gros-outillage-atelier/ferrures-boites-aux-lettres/profiles/profiles-en-aluminium/alfer-tube-rond-en-aluminium---10-mm--1-m/p/3198038) |
+| 15  | Planche compressée                           | 1        | 20cm X 63cm                  | [Jumbo](https://www.jumbo.ch/fr/construction-renovation/bois/decoupe-du-bois/c/060201) |
 
 
 ## Programme  
