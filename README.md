@@ -15,4 +15,4 @@ Ce dispositif est placé sous une corbeille à papier. Les étudiants doivent es
 
 ## Documentation
 
-`Retrouvez la documentation dans le dossier [Docs](https://github.com/TAGUERY/arduino-slider/tree/main/docs`
+`Retrouvez la documentation dans le dossier [Docs](https://github.com/TAGUERY/arduino-slider/tree/main/docs)`
