@@ -8,12 +8,12 @@
 
 `Le mouvement est contrôlé par un moteur et des capteurs. Il effectue des allers-retours entre deux extrémités, et un capteur détecte lorsque la plateforme atteint un bord pour la faire repartir dans l’autre sens.`  
 
-![Breadboard](/docs/assets/breadBoard.png)  
-![capteurs sous la plateforme](/docs/assets/capteur.png)  
-![autre angle des capteurs sous la plateforme](/docs/assets/capteur2.png)  
-![moteur avec le couroie](/docs/assets/moteur.png)  
-![couroie attachée à la plateforme](/docs/assets/pince.png)  
-![moteur vissé à la planche principale](/docs/assets/plancheMoteur.png)  
+![Breadboard](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/breadBoard.png)  
+![capteurs sous la plateforme](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/capteur.png)  
+![autre angle des capteurs sous la plateforme](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/capteur2.png)  
+![moteur avec le couroie](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/moteur.png)  
+![couroie attachée à la plateforme](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/pince.png)  
+![moteur vissé à la planche principale](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/plancheMoteur.png)  
 
 
 ---
