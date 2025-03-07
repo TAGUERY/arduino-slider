@@ -104,6 +104,7 @@ Construction (voir les images en suivant les étapes):
 ## Roadmap  
 
 `- Ajouter un signal sonore ou une LED pour indiquer qu’un papier a bien été lancé dans la corbeille.` 
+
 `- Mettre en place un petit écran LCD avec la sélection de mode de jeux et l'affichage de la vitesse.` 
 
 
