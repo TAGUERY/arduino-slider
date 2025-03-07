@@ -1,6 +1,6 @@
 # Template Projet Arduino
 
-![Description de l'image](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/video-demo.mp4)
+[Vidéo démonstration](https://raw.githubusercontent.com/TAGUERY/arduino-slider/main/docs/assets/video-demo.mp4)
 
 `Réalisé par Tristan Montanari
 Option Arduino 2025 – COMEM+`
