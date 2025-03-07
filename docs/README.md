@@ -40,7 +40,9 @@ Construction (voir les images en suivant les étapes):
 
 ### Schéma  
 
-![Description de l'image](/docs/assets/schematics_bb.png)  
+![Schéma du circuit](https://github.com/TAGUERY/arduino-slider/blob/main/docs/assets/schematics-slider.png)  
+
+`Attention au raccordement des fils du moteur, il faut contrôler le branchement correct des câbles avec un multimètre.`  
 
 ---
 
