@@ -10,6 +10,7 @@ Option Arduino 2025 – COMEM+`
 ## Description
 
 À l'origine, mon projet devait être un slider pour une caméra. Cependant, en prenant en compte le temps disponible, le matériel et le budget, j'ai décidé de conserver l'idée du slider mais en l'adaptant à un usage en salle de classe.
+
 [Vidéo 1 qui m'a inspiré pour la conception](https://www.youtube.com/watch?v=4Rm1vJ67MkA&t=10s&ab_channel=GRINwood)
 [Vidéo 2](https://www.youtube.com/watch?v=fR_-R2bS9ag&t=449s&ab_channel=FilmRiot)
 
